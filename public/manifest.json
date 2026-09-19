@@ -1,0 +1,20 @@
+{
+  "name": "NexoCorp — Tu negocio en la nube",
+  "short_name": "NexoCorp",
+  "description": "ERP y POS en la nube para comercios locales: farmacias, restaurantes, ferreterías, peluquerías y más.",
+  "start_url": "/app/mobile",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4fed",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
