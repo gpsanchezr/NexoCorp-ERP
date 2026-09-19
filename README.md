@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000). La aplicación funciona de inmediato con **datos simulados** (ver `src/lib/mock-data.ts`) — no necesitas configurar nada más para explorarla.
+Abre [http://localhost:3000](http://localhost:3001). La aplicación funciona de inmediato con **datos simulados** (ver `src/lib/mock-data.ts`) — no necesitas configurar nada más para explorarla.
 
 - **Landing page:** `/`
 - **Registro / onboarding:** `/registro`
